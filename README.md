@@ -6,7 +6,7 @@ This is just a project for practice, that has four accounts:
 *Account1
 Account Holder Name: Virat Kohli
 username:vk
-pin:1111
+pin:1111/n
 
 *Account2
 Account Holder Name: MS Dhoni
